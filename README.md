@@ -2,15 +2,13 @@
 
 ![](public/preview.jpeg)
 
-An interactive data storytelling experience on the GenAI industry for 2025
-
----
+An interactive data storytelling experience on the GenAI industry for 2025.
 
 ## Getting Started
 
-The entire experience is self-contained within `index.html`. Just launch it in your browser!
+[See the live site here](https://genai-wrapped-25.jerichoarcelao.workers.dev/)
 
----
+The entire experience is self-contained within `index.html`
 
 ## Technical Details
 
@@ -32,8 +30,6 @@ This application was built as a collaboration between [`gemini-3.0-pro`](https:/
 - **Responsive Design**: Mobile-friendly with adaptive typography and layouts
 - **Terminal Aesthetics**: Neon color palette, glitch text effects, typewriter animations
 
----
-
 ## Design Inspiration
 
 December is usually the time when initiatives such as [Spotify Wrapped](https://www.spotify.com/ph-en/wrapped/), [YouTube Recap](https://blog.youtube/news-and-events/youtube-recap-2025/), and [Discord Checkpoint](https://discord.com/blog/checkpoint-2025-discord-year-in-review) come out. This meant the idea to make something similar for the GenAI industry came naturally.
@@ -44,8 +40,6 @@ Thus, I kept my actual prompt vague, and left majority of the heavy lifting to G
 
 The full app prompt is [available here.](prompts/app.md)
 
----
-
 ## Data Gathering
 
 A data storytelling app wouldn't be complete without the data.
@@ -55,8 +49,6 @@ The research behind this experience is performed with a collaboration across [`o
 I also wanted to see if LLMs would be capable of synthesizing insights from a really fast-moving industry, with most developments this year being outside their training data.
 
 The deep research prompt is [available here](prompts/research_prompt.md), and the generated report is [available here](prompts/report.md).
-
----
 
 ## Overall Thoughts
 
